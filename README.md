@@ -3,7 +3,7 @@
 # -*- coding: utf-8 -*-
 
 
-class SoftwareEngineer:
+class FrontEndDeveloper:
 
     def __init__(self):
         self.name = "Angelo Justin Payad"
@@ -15,7 +15,7 @@ class SoftwareEngineer:
         print("Glad you stopped by! I hope you find some of my work engaging and worthwhile.")
 
 
-me = Front-End Developer()
+me = FrontEndDeveloper()
 me.say_hi()
 ```
 **Languages and Tools**
