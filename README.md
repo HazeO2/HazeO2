@@ -26,5 +26,6 @@ me.say_hi()
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HazeO2&theme=default&show_icons=true&hide_border=true&count_private=true)
