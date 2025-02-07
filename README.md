@@ -9,12 +9,13 @@ class SoftwareEngineer:
         self.name = "Angelo Justin Payad"
         self.role = "Front-End Developer"
         self.language_spoken = ["ph_PHIL", "en_US"]
+        self.age = 21
 
     def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
+        print("Glad you stopped by! I hope you find some of my work engaging and worthwhile.")
 
 
-me = SoftwareEngineer()
+me = Front-End Developer()
 me.say_hi()
 ```
 **Languages and Tools**
